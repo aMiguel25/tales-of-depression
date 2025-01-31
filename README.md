@@ -21,3 +21,9 @@ No one knows how or why you are here... but perhaps only you can discover the tr
 
 Вы оказались в ловушке в особняке с привидениями. Попытайтесь выжить, избегая различных существ, которые преследуют это место, прячась в одной из комнат. Держись до 6 утра!
 Никто не знает, как и почему вы здесь... но, возможно, только вы сможете узнать правду...
+
+
+
+Editors : BEN ZID Maha, PIAU-TOFOLLON Claudine
+
+Dev Team : ASENSI RIDDE Miguel
