@@ -1,14 +1,11 @@
 # Tales-Of-Depression
 
-//Français//
-Un jeu de plateforme en deux dimensions réalisé en C(uniquement en c) avec la librairie graphique SDL(Simple DirectMedia Layer) dans le cadre d'un projet de Licence 2 Informatique. 
-Dévéloppé par Asensi Ridde Miguel de chez DIABEŁ INTERACTIV.INC
+Ce jeu était censé être un jeu vidéo de plateforme en deux dimensions programé en C à l'aide de SDL2 dans le cadre d'un module de la Licence 2 Informatique de LeMans Université.
+Le but, était d'avancer jusquà la fin des niveaux en évitant les ennemis et les pièges sur le chemin. Une fois le fini, un contenu secret sera révélé . Une fois celui ci  trouvé dans le jeu, un jeu dans le jeu se lance.
+Celui-ci complètement différent, raconte l'histoire et dévoile le lore du jeu. vous survivrez dans diverses pièce d'un lieu inconnu en évitant les entités qui hantent ce lieu.
 
-Tout le monde veux votre peau, vous allez devoir vous battre pour reprendre vos esprits. Explorez divers environnements hostiles ou le danger règne à chaque embranchement.
-Traversez des forêts, déserts, glaciers, mines et autres usines.
 
-Une fois le <final.boss.name> vaincu, vous aurez surmonté ce mal qui pèse votre esprit.
-
+Licence owner : LeMans Université
 
 Editors : BEN ZID Maha, PIAU-TOFOLLON Claudine
 
